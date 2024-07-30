@@ -56,4 +56,6 @@ int main() {
 
 Conclusion:- <br>
 in this experiment we learnt to use the basic syntax print hello world 
-, add two numbers , find if the number is even or odd and check if the year is leap or not 
+, add two numbers , find if the number is even or odd and check if the year is leap or not <br>
+
+![exp1].(https://github.com/VandanGupte101727/CDS-experiment-1/blob/main/Screenshot%202024-07-30%20151908.png)
