@@ -2,7 +2,7 @@
 experiment 1 cds print "hello world" in cpp
 
 
-AIM :-To print hello world in c++ programming  <br>
+AIM :-To print hello world , add , subtract  two numbers ,see if the number is even or odd and check if the year is leap or not <br>
 
 Theroy= This is a  basic code to print hello world using cout<< in c plus plus programming <br>
 
