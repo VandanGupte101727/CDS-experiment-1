@@ -1,10 +1,10 @@
 # CDS-experiment-1
-experiment 1 cds print "hello world" in cpp
+experiment 1 cds 
 
 
 AIM :-To print hello world , add , subtract  two numbers ,see if the number is even or odd and check if the year is leap or not <br>
 
-Theroy= This is a  basic code to print hello world using cout<< in c plus plus programming <br>
+Theroy= in this program we have printed hello world and find the sum of two number(user input), average, even odd and also to check if the entered year is leap leap or not using basic cpp language <br>
 
 Code <br>
 //Vandan gupte 
@@ -55,4 +55,5 @@ int main() {
 
 
 Conclusion:- <br>
-in this experiment we learnt to use the basic syntax and print hello world 
+in this experiment we learnt to use the basic syntax print hello world 
+, add two numbers , find if the number is even or odd and check if the year is leap or not 
