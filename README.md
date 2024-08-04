@@ -2,7 +2,9 @@
 experiment 1 cds 
 
 
-AIM :-To print hello world , add , subtract  two numbers ,see if the number is even or odd and check if the year is leap or not <br>
+AIM :-<br>
+to download and install vs code <br>
+To print hello world , add , subtract  two numbers ,see if the number is even or odd and check if the year is leap or not <br>
 
 Theroy= in this program we have printed hello world and find the sum of two number(user input), average, even odd and also to check if the entered year is leap leap or not using basic cpp language <br>
 
