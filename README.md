@@ -9,14 +9,15 @@ To print hello world , add , subtract  two numbers ,see if the number is even or
 Theroy= in this program we have printed hello world and find the sum of two number(user input), average, even odd and also to check if the entered year is leap leap or not using basic cpp language <br>
 
 Code <br>
-//Vandan gupte 
-//23070123147
-//experiment 1
+    
+    //Vandan gupte 
+    //23070123147
+    //experiment 1
 
-#include <iostream>
-using namespace std;
+    #include <iostream>
+    using namespace std;
 
-int main() {
+    int main() {
     cout << "Hello world" << endl;
 
     int a, b;
